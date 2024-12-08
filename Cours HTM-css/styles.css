@@ -1,0 +1,33 @@
+p
+{
+     color:#65093e;
+    font-size: 30px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: left;
+display: inlin;
+}
+h1
+{
+color:blue;
+}
+.moussa
+{
+    color:blueviolet;
+}
+#lamine
+{
+    color:bisque;
+}
+a:link 
+{
+color:chocolate;
+}
+a:visited
+{
+ color: blue;
+}
+a:hover
+{
+color:blueviolet;
+}
